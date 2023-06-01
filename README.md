@@ -8,4 +8,4 @@ npm install
 npm run start
 
 # Port
-http://localhost:3000/
+http://localhost:3000
